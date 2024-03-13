@@ -1,1 +1,1 @@
-# powershell-config
+# shell config
